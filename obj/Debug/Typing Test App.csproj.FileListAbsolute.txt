@@ -1,0 +1,14 @@
+D:\User\Desktop\Typing Test App\bin\Debug\Typing Test App.exe.config
+D:\User\Desktop\Typing Test App\bin\Debug\Typing Test App.exe
+D:\User\Desktop\Typing Test App\bin\Debug\Typing Test App.pdb
+D:\User\Desktop\Typing Test App\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\User\Desktop\Typing Test App\obj\Debug\Typing Test App.csprojAssemblyReference.cache
+D:\User\Desktop\Typing Test App\obj\Debug\Typing_Test_App.Properties.Resources.resources
+D:\User\Desktop\Typing Test App\obj\Debug\Typing Test App.csproj.GenerateResource.cache
+D:\User\Desktop\Typing Test App\obj\Debug\Typing Test App.csproj.CoreCompileInputs.cache
+D:\User\Desktop\Typing Test App\obj\Debug\Typing Test App.csproj.CopyComplete
+D:\User\Desktop\Typing Test App\obj\Debug\Typing Test App.exe
+D:\User\Desktop\Typing Test App\obj\Debug\Typing Test App.pdb
+D:\User\Desktop\Typing Test App\obj\Debug\Typing_Test_App.MessageBox.resources
+D:\User\Desktop\Typing Test App\obj\Debug\Typing_Test_App.SignUpPage.resources
+D:\User\Desktop\Typing Test App\obj\Debug\Typing_Test_App.TestPage.resources
